@@ -13,9 +13,10 @@ weight: 12
 |0007|Reverse Integer|[Go]({{< relref "/ChapterFour/0001~0099/0007.Reverse-Integer.md" >}})|Easy||||25.9%|
 |0008|String to Integer (atoi)|[Go]({{< relref "/ChapterFour/0001~0099/0008.String-to-Integer-atoi.md" >}})|Medium||||15.7%|
 |0009|Palindrome Number|[Go]({{< relref "/ChapterFour/0001~0099/0009.Palindrome-Number.md" >}})|Easy||||49.8%|
-|0012|Integer to Roman|[Go]({{< relref "/ChapterFour/0001~0099/0012.Integer-to-Roman.md" >}})|Medium||||56.6%|
+|0012|Integer to Roman|[Go]({{< relref "/ChapterFour/0001~0099/0012.Integer-to-Roman.md" >}})|Medium||||56.7%|
 |0013|Roman to Integer|[Go]({{< relref "/ChapterFour/0001~0099/0013.Roman-to-Integer.md" >}})|Easy||||56.9%|
 |0029|Divide Two Integers|[Go]({{< relref "/ChapterFour/0001~0099/0029.Divide-Two-Integers.md" >}})|Medium||||16.9%|
+|0043|Multiply Strings|[Go]({{< relref "/ChapterFour/0001~0099/0043.Multiply-Strings.md" >}})|Medium||||35.0%|
 |0050|Pow(x, n)|[Go]({{< relref "/ChapterFour/0001~0099/0050.Powx-n.md" >}})|Medium| O(log n)| O(1)||31.0%|
 |0060|Permutation Sequence|[Go]({{< relref "/ChapterFour/0001~0099/0060.Permutation-Sequence.md" >}})|Hard| O(n log n)| O(1)||39.4%|
 |0067|Add Binary|[Go]({{< relref "/ChapterFour/0001~0099/0067.Add-Binary.md" >}})|Easy||||47.0%|
@@ -83,7 +84,7 @@ weight: 12
 |1641|Count Sorted Vowel Strings|[Go]({{< relref "/ChapterFour/1600~1699/1641.Count-Sorted-Vowel-Strings.md" >}})|Medium||||76.3%|
 |1648|Sell Diminishing-Valued Colored Balls|[Go]({{< relref "/ChapterFour/1600~1699/1648.Sell-Diminishing-Valued-Colored-Balls.md" >}})|Medium||||30.6%|
 |1680|Concatenation of Consecutive Binary Numbers|[Go]({{< relref "/ChapterFour/1600~1699/1680.Concatenation-of-Consecutive-Binary-Numbers.md" >}})|Medium||||52.3%|
-|1685|Sum of Absolute Differences in a Sorted Array|[Go]({{< relref "/ChapterFour/1600~1699/1685.Sum-of-Absolute-Differences-in-a-Sorted-Array.md" >}})|Medium||||62.8%|
+|1685|Sum of Absolute Differences in a Sorted Array|[Go]({{< relref "/ChapterFour/1600~1699/1685.Sum-of-Absolute-Differences-in-a-Sorted-Array.md" >}})|Medium||||62.9%|
 |1716|Calculate Money in Leetcode Bank|[Go]({{< relref "/ChapterFour/1700~1799/1716.Calculate-Money-in-Leetcode-Bank.md" >}})|Easy||||66.5%|
 |------------|-------------------------------------------------------|-------| ----------------| ---------------|-------------|-------------|-------------|
 

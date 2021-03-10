@@ -131,7 +131,7 @@ func updateMatrix_BFS(matrix [][]int) [][]int {
 |0996|Number of Squareful Arrays|[Go]({{< relref "/ChapterFour/0900~0999/0996.Number-of-Squareful-Arrays.md" >}})|Hard| O(n log n)| O(n) ||48.5%|
 |1079|Letter Tile Possibilities|[Go]({{< relref "/ChapterFour/1000~1099/1079.Letter-Tile-Possibilities.md" >}})|Medium| O(n^2)| O(1)|❤️|75.9%|
 |1641|Count Sorted Vowel Strings|[Go]({{< relref "/ChapterFour/1600~1699/1641.Count-Sorted-Vowel-Strings.md" >}})|Medium||||76.3%|
-|1655|Distribute Repeating Integers|[Go]({{< relref "/ChapterFour/1600~1699/1655.Distribute-Repeating-Integers.md" >}})|Hard||||40.0%|
+|1655|Distribute Repeating Integers|[Go]({{< relref "/ChapterFour/1600~1699/1655.Distribute-Repeating-Integers.md" >}})|Hard||||39.9%|
 |1659|Maximize Grid Happiness|[Go]({{< relref "/ChapterFour/1600~1699/1659.Maximize-Grid-Happiness.md" >}})|Hard||||35.6%|
 |1681|Minimum Incompatibility|[Go]({{< relref "/ChapterFour/1600~1699/1681.Minimum-Incompatibility.md" >}})|Hard||||35.6%|
 |1688|Count of Matches in Tournament|[Go]({{< relref "/ChapterFour/1600~1699/1688.Count-of-Matches-in-Tournament.md" >}})|Easy||||81.6%|

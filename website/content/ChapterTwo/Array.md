@@ -24,6 +24,7 @@ weight: 1
 |0040|Combination Sum II|[Go]({{< relref "/ChapterFour/0001~0099/0040.Combination-Sum-II.md" >}})|Medium| O(n log n)| O(n)||50.2%|
 |0041|First Missing Positive|[Go]({{< relref "/ChapterFour/0001~0099/0041.First-Missing-Positive.md" >}})|Hard| O(n)| O(n)||33.8%|
 |0042|Trapping Rain Water|[Go]({{< relref "/ChapterFour/0001~0099/0042.Trapping-Rain-Water.md" >}})|Hard| O(n)| O(1)|❤️|51.3%|
+|0045|Jump Game II|[Go]({{< relref "/ChapterFour/0001~0099/0045.Jump-Game-II.md" >}})|Medium||||31.4%|
 |0048|Rotate Image|[Go]({{< relref "/ChapterFour/0001~0099/0048.Rotate-Image.md" >}})|Medium| O(n)| O(1)||60.1%|
 |0053|Maximum Subarray|[Go]({{< relref "/ChapterFour/0001~0099/0053.Maximum-Subarray.md" >}})|Easy| O(n)| O(n)||47.8%|
 |0054|Spiral Matrix|[Go]({{< relref "/ChapterFour/0001~0099/0054.Spiral-Matrix.md" >}})|Medium| O(n)| O(n^2)||36.1%|
@@ -35,6 +36,7 @@ weight: 1
 |0063|Unique Paths II|[Go]({{< relref "/ChapterFour/0001~0099/0063.Unique-Paths-II.md" >}})|Medium| O(n^2)| O(n^2)||35.3%|
 |0064|Minimum Path Sum|[Go]({{< relref "/ChapterFour/0001~0099/0064.Minimum-Path-Sum.md" >}})|Medium| O(n^2)| O(n^2)||56.3%|
 |0066|Plus One|[Go]({{< relref "/ChapterFour/0001~0099/0066.Plus-One.md" >}})|Easy||||42.3%|
+|0073|Set Matrix Zeroes|[Go]({{< relref "/ChapterFour/0001~0099/0073.Set-Matrix-Zeroes.md" >}})|Medium||||44.4%|
 |0074|Search a 2D Matrix|[Go]({{< relref "/ChapterFour/0001~0099/0074.Search-a-2D-Matrix.md" >}})|Medium||||37.9%|
 |0075|Sort Colors|[Go]({{< relref "/ChapterFour/0001~0099/0075.Sort-Colors.md" >}})|Medium| O(n)| O(1)|❤️|49.5%|
 |0078|Subsets|[Go]({{< relref "/ChapterFour/0001~0099/0078.Subsets.md" >}})|Medium| O(n^2)| O(n)|❤️|65.2%|
@@ -112,7 +114,7 @@ weight: 1
 |0989|Add to Array-Form of Integer|[Go]({{< relref "/ChapterFour/0900~0999/0989.Add-to-Array-Form-of-Integer.md" >}})|Easy||||44.9%|
 |0999|Available Captures for Rook|[Go]({{< relref "/ChapterFour/0900~0999/0999.Available-Captures-for-Rook.md" >}})|Easy||||67.8%|
 |1002|Find Common Characters|[Go]({{< relref "/ChapterFour/1000~1099/1002.Find-Common-Characters.md" >}})|Easy||||68.6%|
-|1011|Capacity To Ship Packages Within D Days|[Go]({{< relref "/ChapterFour/1000~1099/1011.Capacity-To-Ship-Packages-Within-D-Days.md" >}})|Medium||||59.8%|
+|1011|Capacity To Ship Packages Within D Days|[Go]({{< relref "/ChapterFour/1000~1099/1011.Capacity-To-Ship-Packages-Within-D-Days.md" >}})|Medium||||59.7%|
 |1018|Binary Prefix Divisible By 5|[Go]({{< relref "/ChapterFour/1000~1099/1018.Binary-Prefix-Divisible-By-5.md" >}})|Easy||||47.8%|
 |1040|Moving Stones Until Consecutive II|[Go]({{< relref "/ChapterFour/1000~1099/1040.Moving-Stones-Until-Consecutive-II.md" >}})|Medium||||54.1%|
 |1051|Height Checker|[Go]({{< relref "/ChapterFour/1000~1099/1051.Height-Checker.md" >}})|Easy||||72.1%|
@@ -132,7 +134,7 @@ weight: 1
 |1217|Minimum Cost to Move Chips to The Same Position|[Go]({{< relref "/ChapterFour/1200~1299/1217.Minimum-Cost-to-Move-Chips-to-The-Same-Position.md" >}})|Easy||||71.1%|
 |1232|Check If It Is a Straight Line|[Go]({{< relref "/ChapterFour/1200~1299/1232.Check-If-It-Is-a-Straight-Line.md" >}})|Easy||||43.5%|
 |1252|Cells with Odd Values in a Matrix|[Go]({{< relref "/ChapterFour/1200~1299/1252.Cells-with-Odd-Values-in-a-Matrix.md" >}})|Easy||||78.9%|
-|1260|Shift 2D Grid|[Go]({{< relref "/ChapterFour/1200~1299/1260.Shift-2D-Grid.md" >}})|Easy||||61.8%|
+|1260|Shift 2D Grid|[Go]({{< relref "/ChapterFour/1200~1299/1260.Shift-2D-Grid.md" >}})|Easy||||61.9%|
 |1266|Minimum Time Visiting All Points|[Go]({{< relref "/ChapterFour/1200~1299/1266.Minimum-Time-Visiting-All-Points.md" >}})|Easy||||79.4%|
 |1275|Find Winner on a Tic Tac Toe Game|[Go]({{< relref "/ChapterFour/1200~1299/1275.Find-Winner-on-a-Tic-Tac-Toe-Game.md" >}})|Easy||||52.9%|
 |1287|Element Appearing More Than 25% In Sorted Array|[Go]({{< relref "/ChapterFour/1200~1299/1287.Element-Appearing-More-Than-25-In-Sorted-Array.md" >}})|Easy||||60.1%|
@@ -160,17 +162,16 @@ weight: 1
 |1636|Sort Array by Increasing Frequency|[Go]({{< relref "/ChapterFour/1600~1699/1636.Sort-Array-by-Increasing-Frequency.md" >}})|Easy||||66.8%|
 |1640|Check Array Formation Through Concatenation|[Go]({{< relref "/ChapterFour/1600~1699/1640.Check-Array-Formation-Through-Concatenation.md" >}})|Easy||||60.0%|
 |1646|Get Maximum in Generated Array|[Go]({{< relref "/ChapterFour/1600~1699/1646.Get-Maximum-in-Generated-Array.md" >}})|Easy||||53.3%|
-|1652|Defuse the Bomb|[Go]({{< relref "/ChapterFour/1600~1699/1652.Defuse-the-Bomb.md" >}})|Easy||||62.7%|
+|1652|Defuse the Bomb|[Go]({{< relref "/ChapterFour/1600~1699/1652.Defuse-the-Bomb.md" >}})|Easy||||62.6%|
 |1656|Design an Ordered Stream|[Go]({{< relref "/ChapterFour/1600~1699/1656.Design-an-Ordered-Stream.md" >}})|Easy||||82.1%|
 |1672|Richest Customer Wealth|[Go]({{< relref "/ChapterFour/1600~1699/1672.Richest-Customer-Wealth.md" >}})|Easy||||88.2%|
 |1700|Number of Students Unable to Eat Lunch|[Go]({{< relref "/ChapterFour/1700~1799/1700.Number-of-Students-Unable-to-Eat-Lunch.md" >}})|Easy||||68.2%|
 |1732|Find the Highest Altitude|[Go]({{< relref "/ChapterFour/1700~1799/1732.Find-the-Highest-Altitude.md" >}})|Easy||||80.7%|
 |1742|Maximum Number of Balls in a Box|[Go]({{< relref "/ChapterFour/1700~1799/1742.Maximum-Number-of-Balls-in-a-Box.md" >}})|Easy||||74.7%|
 |1748|Sum of Unique Elements|[Go]({{< relref "/ChapterFour/1700~1799/1748.Sum-of-Unique-Elements.md" >}})|Easy||||75.5%|
-|1752|Check if Array Is Sorted and Rotated|[Go]({{< relref "/ChapterFour/1700~1799/1752.Check-if-Array-Is-Sorted-and-Rotated.md" >}})|Easy||||63.5%|
+|1752|Check if Array Is Sorted and Rotated|[Go]({{< relref "/ChapterFour/1700~1799/1752.Check-if-Array-Is-Sorted-and-Rotated.md" >}})|Easy||||63.4%|
 |1758|Minimum Changes To Make Alternating Binary String|[Go]({{< relref "/ChapterFour/1700~1799/1758.Minimum-Changes-To-Make-Alternating-Binary-String.md" >}})|Easy||||58.9%|
 |------------|-------------------------------------------------------|-------| ----------------| ---------------|-------------|-------------|-------------|
-
 
 
 ----------------------------------------------
